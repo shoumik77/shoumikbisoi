@@ -19,7 +19,7 @@ export default function Home() {
           <p className="text-sm uppercase tracking-wide">Junior at Virginia Tech</p>
           <h1 className="text-5xl font-extrabold">Shoumik<br />Bisoi</h1>
           <p className="mt-4 text-sm leading-relaxed text-gray-300">
-  I’m Shoumik Bisoi, a freshman at Virginia Tech with a strong foundation in full-stack development, AI applications, and systems engineering. I’ve built and deployed real-world solutions—from web platforms for travel agencies to motion analysis tools in physical therapy—using technologies like React, Flask, and C++. I enjoy tackling complex problems, collaborating across disciplines, and continuously learning to drive impact through software. I'm currently seeking opportunities to grow as an engineer in forward-thinking teams.
+  I’m Shoumik Bisoi, a Junior at Virginia Tech with a strong foundation in full-stack development, AI applications, and systems engineering. I’ve built and deployed real-world solutions—from web platforms for travel agencies to motion analysis tools in physical therapy—using technologies like React, Flask, and C++. I enjoy tackling complex problems, collaborating across disciplines, and continuously learning to drive impact through software. I'm currently seeking opportunities to grow as an engineer in forward-thinking teams.
 </p>
 
           <div className="mt-6">

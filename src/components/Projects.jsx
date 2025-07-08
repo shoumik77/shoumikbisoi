@@ -78,7 +78,7 @@ export default function Projects() {
         <div className="col-span-2 hidden md:flex justify-end items-start md:items-center pt-2">
   <div className="flex items-center font-mono text-white text-xl md:text-2xl lg:text-3xl">
     <span className="text-blue-400">const</span>
-    <span className="ml-2 font-bold">notableProjects</span>
+    <span className="ml-2 font-bold">projects</span>
     <span className="ml-2">=</span>
     <span className="ml-2 text-white">{'{'}</span>
   </div>
